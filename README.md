@@ -1,5 +1,4 @@
 # Movie_Data_integrity
-#intrduction
 What is Fetch.ai, and what does it do?
 Fetch.ai's vision is to create an AI-empowered platform that can connect services and APIs without any domain knowledge. 
 
